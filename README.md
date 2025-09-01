@@ -11,3 +11,4 @@
 3. Gabungkan keduanya di file praktikum.dart dengan Column, ditambah SizedBox sebagai jaraknya.
 4. Panggil Praktikum() di file main.dart dengan Center dan mengatur background nya.
 5. Jalankan hasilnya, teks welcome to poliwangi dan logo poliwangi akan tampil dengan posisi di tengah.
+![alt text](image.png)
