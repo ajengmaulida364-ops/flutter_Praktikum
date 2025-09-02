@@ -6,9 +6,9 @@
 
 # Tahapan kombinasi images dan text
 
-1. Buat TextWidget untuk menampilkan teks dengan Textstyle.
-2. Buat ImagesWidget untuk menampilkan logo dari assets.
-3. Gabungkan keduanya di file praktikum.dart dengan Column, ditambah SizedBox sebagai jaraknya.
-4. Panggil Praktikum() di file main.dart dengan Center dan mengatur background nya.
-5. Jalankan hasilnya, teks welcome to poliwangi dan logo poliwangi akan tampil dengan posisi di tengah.
+1. Membuat Text Widget dengan gaya text yang diinginkan
+2. Menambahkan Image widget untuk menampilkan gambar dari folder assets
+3. Menggabungkan kedua widget (Text dan Image) dalam satu column, kemudian memberi jarak antara keduanya menggunakan SizedBox
+4. Panggil widget kombinasi dari file main.dart
+5. Atur warna untuk latar belakang nya
 ![alt text](image.png)
